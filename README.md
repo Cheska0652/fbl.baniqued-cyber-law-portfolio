@@ -1,17 +1,7 @@
-# Cybersecurity × Law Portfolio
+# Cybersecurity Threat Intelligence Portfolio
 
 ## About
-I analyze cybersecurity incidents through legal, regulatory, and policy lenses, translating technical risk into governance and compliance decisions.
+I research on APTs and analyze their motivations, and write threat intel reports based on my findings.
 
 ## Portfolio Sections
-- [Case Briefs](case-briefs/)
-- [Policy Analysis](policy-analysis/)
-- [Advisory Memos](advisory-memos/)
-- [Technical → Legal](technical-to-legal/)
-
-## Focus Areas
-- Cyber incident response & liability
-- Data protection & privacy law
-- Regulatory compliance
-- Cyber risk governance
-
+- [Threat Intelligence Reports](threat-intelligence-reports/)
